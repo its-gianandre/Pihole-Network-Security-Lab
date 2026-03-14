@@ -36,8 +36,8 @@ All devices send DNS queries to Pi-hole instead of external DNS providers.
 5. If allowed -> forwarded to upstream DNS (specifically Cloudflare DNSSEC)
 6. IP address returned to device
 
-For diagram of the process see:
-diagrams -> network_architecture.png
+Diagram of network architecture:
+
 
 ### Setup Instructions:
 For full installation instructions see:
